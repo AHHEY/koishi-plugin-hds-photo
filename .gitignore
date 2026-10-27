@@ -1,0 +1,7 @@
+node_modules/
+data/
+coverage/
+*.zip
+*.tgz
+.DS_Store
+test/.store-test-*/
